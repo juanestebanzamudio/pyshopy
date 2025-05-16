@@ -29,3 +29,5 @@ class Reservas(Base):
     fecha_fin=Column(Integer)
     precio=Column(Integer)  
     user_id=Column(Integer, ForeignKey("user.id"))
+
+#jsagdfhsagdfhg
